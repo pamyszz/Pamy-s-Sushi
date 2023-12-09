@@ -4,7 +4,7 @@
   <em>A fictional website for a sushi restaurant, offering a delightful experience!</em>
 </p>
 
-![Homepage Image](https://imgur.com/54dxJKP.jpg)
+![Homepage Image](https://imgur.com/UlE4EX3.jpg)
 
 ## 🍱 Overview
 
