@@ -26,7 +26,7 @@ https://github.com/pamyszz/Pamy-s-Sushi.git
 2. Open the `index.html` file in your browser to view the site.
 
 ## 🌐 Website
-Visit the [Sushi Restaurant Website](https://pamyszz.github.io/Pamy-s-Sushi/) to explore the live site.
+Visit the [Sushi Restaurant Website](https://pamys-sushi.vercel.app/) to explore the live site.
 ## 🛠 Technologies Used
 - HTML
 - CSS
